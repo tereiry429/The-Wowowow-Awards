@@ -1,0 +1,106 @@
+h1{
+    font-family: 'Kumar One Outline', cursive;
+    font-size:100px;
+    text-align:center;
+    color:blue;
+}
+
+h2{
+font-family: 'Bungee Inline', cursive;
+    font-size:90px;
+    text-align:center;
+    color:darkred;
+}
+
+h3{
+font-family: 'Bungee Inline', cursive;
+    font-size:80px;
+    text-align:center;
+    color:blue; 
+}
+  .award{
+    width: 200px; 
+  }
+  
+  
+  .band{  
+      font-family: 'Righteous', cursive;
+      font-size:80px;
+      text-align:center;   
+}
+
+.movie{
+   font-family: 'Nosifer', cursive;
+    font-size:80px;
+    text-align:center;
+}
+
+.singer{
+    font-family: 'New Rocker', cursive;
+    font-size:80px;
+    text-align:center;
+}
+
+.smile{
+    font-family: 'Spicy Rice', cursive;
+    font-size:80px;
+    text-align:center;
+}
+
+.harry{
+   font-family: 'Fontdiner Swanky', cursive;
+    font-size:80px;
+    text-align:center;
+}
+
+.cardi{
+    font-family: 'Playball', cursive;
+    font-size:80px;
+    text-align:center;
+}
+
+.nf {
+    font-family: 'Abril Fatface', cursive;
+    font-size:80px;
+    text-align:center;   
+}
+
+.quote{
+    color:skyblue;
+}
+
+
+p{
+    font-family: 'Luckiest Guy', cursive;
+    font-size:80px;
+    text-align:center;
+    color:white;
+}
+
+
+body {
+    background-image: url("https://bit.ly/2yZenx4");
+    color:white;
+}
+ 
+ img{
+    width:400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    border-style: solid;
+ }
+ 
+ li{
+    font-family: 'Special Elite', cursive;
+    font-size:60px;
+    text-align:center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    color:dodgerblue;
+ }
+
+
